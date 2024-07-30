@@ -29,7 +29,7 @@ MarkupSafe==2.1.5
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 nest-asyncio==1.6.0
-numpy==2.0.1
+numpy>=1.21.2,<2.0.0
 packaging==24.1
 pandas==2.2.2
 parso==0.8.4
@@ -44,7 +44,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.9
 pytz==2024.1
-pywin32==306
+pywin32>=223
 PyYAML==6.0.1
 pyzmq==26.0.3
 rich==13.7.1
